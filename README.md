@@ -6,7 +6,7 @@ The primary objective of the California housing price prediction project is to u
 
 Another objective is to implement robust data preprocessing steps, such as handling missing data, encoding categorical variables, and scaling numerical features, which are essential for improving model performance. The project also aims to evaluate different machine learning models, including Linear Regression and assess their accuracy using metrics like Mean Squared Error (MSE) and R-squared.
 
-Scope:
+# Scope:
 The scope of this project extends beyond simply building a model. It involves a comprehensive data analysis process that includes data exploration, feature engineering, model development, evaluation, and optimization. The dataset contains 20,640 rows and 10 columns, which provide a rich variety of data points related to housing characteristics and geographic information.
 
 Data Exploration: Initial exploration of the dataset includes summary statistics, visualizations of correlations between variables (e.g., using Seaborn heatmaps), and identifying potential patterns that could affect housing prices.
@@ -17,12 +17,12 @@ Model Development: The project tests various machine learning algorithms, primar
 
 Interactive Exploration: The project utilizes IPyWidgets to allow users to interactively explore different features and model outputs. This makes it easier to visualize and understand the impact of individual features on housing price predictions.
 
-Aim:
+# Aim:
 The aim of the project is to create a reliable model for predicting housing prices in California based on available socio-economic, geographic, and housing-related data. The project seeks to provide a practical, data-driven solution for real estate stakeholders, including developers, investors, and policymakers. With insights into how variables such as median_income, and ocean proximity affect housing prices, the model can help inform investment decisions and housing policy.
 
 The analysis can also offer valuable insights into which features should be prioritized in future housing developments or policy planning. For example, regions closer to the ocean or with higher median incomes are expected to have higher housing prices, and understanding these trends can guide resource allocation and development priorities.
 
-Solution and Outcome:
+# Solution and Outcome:
 The solution derived from this project is a predictive machine learning model that provides accurate forecasts of housing prices in California. Key steps that contributed to the solution include:
 
 Data Preprocessing: The project involved cleaning and transforming the data, such as dropping the columns that had no effect on the housing price.
